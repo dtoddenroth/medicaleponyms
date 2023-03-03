@@ -52,5 +52,6 @@ if __name__=="__main__":
 			if filemd5(textfile)==hashdict.get(basename(textfile)):
 				matchcounter += 1
 				_ = copy(textfile,"../annotations/")
-		print(f"Copied {matchcounter} unmodified .txt files (of {len(pmids)}) from {tempdir} to ../annotations/.")
+		print(f"Copied {matchcounter} unmodified .txt files "
+			"(of {len(pmids)}) from {tempdir} to ../annotations/.")
 
