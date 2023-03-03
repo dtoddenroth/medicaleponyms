@@ -30,11 +30,11 @@ def converttotext(xmlfile):
 	assert len(abstract)
 	pmid = splitext(basename(xmlfile))[0]
 	textfile = dirname(xmlfile)+ f"/{pmid}.txt"
-	with open(textfile,"w+",encoding="utf-8-sig") as f:
-		_ = f.write(f"{title}\n\n{abstract}")
+	with open(textfile,"wb+") as f:
+		_ = f.write(f"{title}\n\n{abstract}".encode("utf-8"))
 	return textfile
 
-filemd5 = lambda fn: md5(open(fn,encoding="utf-8-sig").read().encode()).hexdigest()
+filemd5 = lambda fn: md5(open(fn,encoding="utf-8").read().encode()).hexdigest()
 hashdict = {row.split("  ")[1].strip(): row.split("  ")[0] 
 	for row in open("checksums.md5").readlines()}
 pmids = open("pmids.txt").read().strip().split("\n")
