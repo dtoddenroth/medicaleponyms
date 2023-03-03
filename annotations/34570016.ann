@@ -1,0 +1,17 @@
+T1	Noeponym 0 4	Case
+T2	Noeponym 5 11	Report
+T3	Noeponym 13 18	Tubal
+T4	Noeponym 19 27	Atypical
+T5	Noeponym 85 91	benign
+T6	Noeponym 137 150	trophoblastic
+T7	Noeponym 170 180	tumor-like
+T8	Noeponym 314 325	epithelioid
+T9	Noeponym 326 339	trophoblastic
+T10	Noeponym 409 422	trophoblastic
+T11	Noeponym 470 483	trophoblastic
+T12	Noeponym 699 707	atypical
+T13	Noeponym 736 749	trophoblastic
+T14	Noeponym 870 876	benign
+T15	Noeponym 945 952	lesions
+T16	Noeponym 1132 1139	unusual
+T17	Noeponym 1236 1248	pathogenesis

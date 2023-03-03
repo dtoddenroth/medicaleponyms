@@ -1,0 +1,17 @@
+T1	Noeponym 47 52	bowel
+T2	Noeponym 53 60	disease
+T3	Noeponym 68 83	German-Austrian
+T4	Noeponym 84 91	patient
+T5	Noeponym 157 172	pediatric-onset
+T6	Noeponym 186 191	bowel
+T7	Noeponym 192 199	disease
+T8	Noeponym 512 527	German-Austrian
+T9	Noeponym 528 535	patient
+T10	Eponym 736 741	Crohn
+T11	Noeponym 744 751	disease
+T12	Noeponym 785 795	Ulcerative
+T13	Noeponym 796 803	colitis
+T14	Noeponym 805 807	UC
+T15	Noeponym 1002 1004	UC
+T16	Noeponym 1017 1019	UC
+T17	Noeponym 1048 1057	diagnosis

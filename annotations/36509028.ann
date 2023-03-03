@@ -1,0 +1,15 @@
+T1	Eponym 52 61	Parkinson
+T2	Noeponym 64 71	disease
+T3	Eponym 384 393	Parkinson
+T4	Noeponym 396 403	Disease
+T5	Noeponym 405 407	PD
+T6	Noeponym 678 688	idiopathic
+T7	Noeponym 689 691	PD
+T8	Noeponym 749 756	patient
+T9	Noeponym 794 800	Clinic
+T10	Noeponym 883 890	patient
+T11	Noeponym 910 912	PD
+T12	Eponym 914 924	Hoehn-Yahr
+T13	Noeponym 1339 1341	PD
+T14	Noeponym 1609 1616	disease
+T15	Noeponym 2364 2372	Elsevier

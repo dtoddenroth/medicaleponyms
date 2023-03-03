@@ -1,0 +1,15 @@
+T3	Noeponym 17 24	purpura
+T4	Noeponym 65 70	bowel
+T5	Noeponym 71 78	disease
+T8	Noeponym 191 198	purpura
+T9	Noeponym 240 245	bowel
+T10	Noeponym 246 253	disease
+T11	Noeponym 255 258	IBD
+T12	Noeponym 363 366	IBD
+T13	Noeponym 367 376	diagnosis
+T14	Noeponym 500 505	bowel
+T15	Noeponym 506 513	disease
+T16	Noeponym 527 534	chronic
+T17	Noeponym 539 548	recurrent
+T1	Eponym 0 16	Henoch Schonlein
+T2	Eponym 174 190	Henoch Schonlein

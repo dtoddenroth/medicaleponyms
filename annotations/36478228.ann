@@ -1,0 +1,15 @@
+T1	Noeponym 45 52	disease
+T2	Noeponym 53 66	manifestation
+T3	Eponym 88 97	Parkinson
+T4	Noeponym 100 107	disease
+T5	Noeponym 150 159	recessive
+T6	Eponym 160 169	Parkinson
+T7	Noeponym 172 179	disease
+T8	Noeponym 330 337	disease
+T9	Noeponym 526 536	idiopathic
+T10	Eponym 537 546	Parkinson
+T11	Noeponym 549 556	disease
+T12	Noeponym 684 692	Affected
+T13	Noeponym 1480 1485	Press
+T14	Noeponym 1503 1513	Guarantors
+T15	Noeponym 1517 1522	Brain

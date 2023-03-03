@@ -1,0 +1,16 @@
+T1	Noeponym 48 55	Patient
+T2	Eponym 61 67	Marfan
+T3	Noeponym 68 76	Syndrome
+T4	Noeponym 77 84	Treated
+T5	Noeponym 99 111	Edge-to-Edge
+T6	Noeponym 119 124	Valve
+T7	Noeponym 372 380	prolapse
+T8	Noeponym 412 425	manifestation
+T9	Eponym 429 435	Marfan
+T10	Noeponym 436 444	syndrome
+T11	Noeponym 550 561	30-year-old
+T12	Noeponym 562 569	patient
+T13	Eponym 592 598	Marfan
+T14	Noeponym 599 607	syndrome
+T15	Noeponym 642 653	symptomatic
+T16	Noeponym 957 964	patient

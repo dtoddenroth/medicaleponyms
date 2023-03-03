@@ -1,0 +1,15 @@
+T1	Eponym 0 7	Pearson
+T2	Noeponym 8 16	syndrome
+T3	Noeponym 22 27	child
+T4	Eponym 45 61	Diamond-Blackfan
+T5	Noeponym 62 68	anemia
+T6	Eponym 71 78	Pearson
+T7	Noeponym 79 87	syndrome
+T8	Eponym 139 155	Diamond-Blackfan
+T9	Noeponym 156 162	anemia
+T10	Noeponym 202 208	anemia
+T11	Noeponym 230 239	diagnosis
+T12	Noeponym 264 273	diagnosis
+T13	Noeponym 670 677	patient
+T14	Noeponym 726 735	diagnosed
+T15	Noeponym 800 802	de

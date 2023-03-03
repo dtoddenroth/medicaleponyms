@@ -1,0 +1,15 @@
+T1	Noeponym 0 5	Acute
+T2	Noeponym 6 13	Myeloid
+T3	Noeponym 14 22	Leukemia
+T4	Noeponym 23 33	Presenting
+T5	Noeponym 39 48	Posterior
+T6	Noeponym 49 54	Fossa
+T7	Noeponym 63 77	Extramedullary
+T8	Noeponym 149 156	sarcoma
+T9	Noeponym 190 197	sarcoma
+T10	Noeponym 201 209	chloroma
+T11	Noeponym 329 333	rare
+T12	Noeponym 409 419	presenting
+T13	Noeponym 446 455	mimicking
+T14	Noeponym 503 510	Wolters
+T15	Noeponym 511 517	Kluwer

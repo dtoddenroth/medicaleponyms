@@ -1,0 +1,16 @@
+T1	Noeponym 12 33	Radiologic-Pathologic
+T2	Noeponym 158 167	Resection
+T3	Noeponym 185 197	Radiotherapy
+T4	Noeponym 198 206	Planning
+T6	Noeponym 576 584	Hospital
+T7	Noeponym 672 679	patient
+T8	Noeponym 755 765	pathologic
+T9	Noeponym 832 842	pathologic
+T10	Eponym 920 928	Spearman
+T11	Noeponym 1016 1028	radiological
+T12	Noeponym 1033 1043	pathologic
+T13	Noeponym 1144 1154	pathologic
+T14	Noeponym 1550 1560	pathologic
+T15	Noeponym 1637 1649	radiological
+T16	Noeponym 1654 1664	pathologic
+T17	Noeponym 1894 1902	Elsevier
