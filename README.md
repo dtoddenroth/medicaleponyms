@@ -1,6 +1,8 @@
 Medical eponyms
 ===============
 
+![License](https://img.shields.io/github/license/dtoddenroth/medicaleponyms)
+
 ![thumbnail](https://user-images.githubusercontent.com/20538437/212569365-a109ce29-823e-458e-a55b-4bd197ca59b2.png)
 
 This repository accompanies an evaluation of 
