@@ -53,5 +53,5 @@ if __name__=="__main__":
 				matchcounter += 1
 				_ = copy(textfile,"../annotations/")
 		print(f"Copied {matchcounter} unmodified .txt files "
-			"(of {len(pmids)}) from {tempdir} to ../annotations/.")
+			f"(of {len(pmids)}) from {tempdir} to ../annotations/.")
 
