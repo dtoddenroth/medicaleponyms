@@ -12,7 +12,7 @@ to [EFMI's Medical Informatics Europe conference 2023](https://www.mie2023.org/)
 
 The `annotations/` folder in this repository contains medical eponyms 
 and counterexamples in the format of the 
-[brat](https://brat.nlplab.org/) annotation tool, 
+[Brat](https://brat.nlplab.org/) annotation tool, 
 labeled in a convenience sample of 1,079 Pubmed abstracts. 
 Of 13,659 annotations, 1,582 (11.6%) refer to eponyms, 
 with the three most frequent ones being 
@@ -46,4 +46,4 @@ cd medicaleponyms/downloadabstracts
 python3 downloadabstracts.py
 ```
 The `bratconfig/` folder contains configuration files for visualizing 
-annotations in [brat](https://brat.nlplab.org/). 
+annotations in [Brat](https://brat.nlplab.org/). 
