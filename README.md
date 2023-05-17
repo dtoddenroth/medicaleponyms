@@ -7,8 +7,8 @@ Medical eponyms
 
 This repository accompanies an evaluation of 
 [SciBERT](https://github.com/allenai/scibert)-based classifiers 
-of medical eponymy in scientific abstracts, which has been submitted 
-to [EFMI's Medical Informatics Europe conference 2023](https://www.mie2023.org/). 
+of medical eponymy in scientific abstracts, to be presented at 
+[EFMI's Medical Informatics Europe conference 2023](https://www.mie2023.org/). 
 
 The `annotations/` folder in this repository contains medical eponyms 
 and counterexamples in the format of the 
@@ -41,6 +41,7 @@ and re-assembling unchanged (checksum-compatible) `.txt` files
 and `.ann` files in the `annotations/` folder: 
 
 ```
+pip install lxml
 git clone https://github.com/dtoddenroth/medicaleponyms.git
 cd medicaleponyms/downloadabstracts
 python3 downloadabstracts.py
