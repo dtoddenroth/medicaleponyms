@@ -5,7 +5,7 @@ Medical eponyms
 
 ![thumbnail](https://user-images.githubusercontent.com/20538437/212569365-a109ce29-823e-458e-a55b-4bd197ca59b2.png)
 
-This repository accompanies an evaluation of 
+This repository accompanies an [evaluation](https://pubmed.ncbi.nlm.nih.gov/37203500/) of 
 [SciBERT](https://github.com/allenai/scibert)-based classifiers 
 of medical eponymy in scientific abstracts, to be presented at 
 [EFMI's Medical Informatics Europe conference 2023](https://www.mie2023.org/). 
