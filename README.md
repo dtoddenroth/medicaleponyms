@@ -7,7 +7,7 @@ Medical eponyms
 
 This repository accompanies an [evaluation](https://pubmed.ncbi.nlm.nih.gov/37203500/) of 
 [SciBERT](https://github.com/allenai/scibert)-based classifiers 
-of medical eponymy in scientific abstracts, to be presented at 
+of medical eponymy in scientific abstracts, which has been presented at 
 [EFMI's Medical Informatics Europe conference 2023](https://www.mie2023.org/). 
 
 The `annotations/` folder in this repository contains medical eponyms 
